@@ -1,0 +1,10 @@
+
+[1mFrom:[0m lib/02_calculator.rb @ line 19:
+[1mOwner:[0m Object
+[1mVisibility:[0m private
+[1mNumber of lines:[0m 4
+
+[32mdef[0m [1;34mmultiply[0m(*nums)
+    byebug
+    [32mreturn[0m nums.reduce([33m:*[0m)
+[32mend[0m 
